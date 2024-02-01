@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media0.giphy.com/avatars/danielfigueirdo/mR5uHXLuePGT.gif" height="40" />
 
 <!--
 **scarra-/scarra-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
